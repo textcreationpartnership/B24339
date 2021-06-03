@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods hatred against sin and wickedness Wherein is discovered the odiousness of the sins of these times, as pride, and lying, blood-shedding, and wicked imaginations; mischief, and false witness, as dissention, setters of strife and debate: very necessary for these times, and worthy to be kept in memory after ages. Written by Roger Hough.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24339</idno><idno type="EEBO-CITATION">99829662</idno>
+  <idno type="VID">207170</idno>
+  <idno type="EEBO-PROQUEST">2264216446</idno>
+  
+            <idno type="STC">Wing H2912A</idno>
+            <idno type="PROQUEST">99829662</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829662e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2007:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods hatred against sin and wickedness Wherein is discovered the odiousness of the sins of these times, as pride, and lying, blood-shedding, and wicked imaginations; mischief, and false witness, as dissention, setters of strife and debate: very necessary for these times, and worthy to be kept in memory after ages. Written by Roger Hough.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.B. for T. Passinger, at the Three Bibles on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Running title: Gods hatred against sin.</note>
+                  <note>With final page of verse.</note>
+                  <note>Reproduction of the original at the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207170:1"/>
+            <pb facs="tcp:207170:1"/>
+            <p>
+               <hi>Gods Hatred against</hi> SIN AND VVICKEDNESS.</p>
+            <p>Wherein is discovered the odiousness of the Sins of these times, as Pride, and Ly<g ref="char:EOLhyphen"/>ing, Blood-shedding, and Wicked imagi<g ref="char:EOLhyphen"/>nations; Mischief, and false Witness, as Dissention, setters of strife and de<g ref="char:EOLhyphen"/>bate: very necessary for these times, and worthy to be kept in memory after ages.</p>
+            <p>Written by <hi>Roger Hough.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Psalm 119.113.</hi>
+               </bibl> I hate vain thoughts, but thy Laws do I love.</q>
+            <q>
+               <bibl>
+                  <hi>Verse 115.</hi>
+               </bibl> Depart from me ye evil doers, for I will keep the commandments of my <hi>God.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>John 15.14.</hi>
+               </bibl> Sin no more lest a worse thing be<g ref="char:EOLhyphen"/>fall thee.</q>
+            <q>
+               <bibl>
+                  <hi>Ephes 4.25.</hi>
+               </bibl> Speak every man truth with his neighbour, for we are members one of another</q>
+            <p>Printed by <hi>H. B.</hi> for <hi>T. Passinger,</hi> at the Three Bibles on <hi>London-Bridge,</hi> 1683.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207170:2"/>
+            <head>To the READER</head>
+            <l>PEruse this book, consider well</l>
+            <l>The fruitful things that herein dwell;</l>
+            <l>Here is Gods Hatred against Sin,</l>
+            <l>That in the first man did begin.</l>
+            <l>Pride of Looks, and Lying Tongues,</l>
+            <l>Hands full of blood, Hearts that do wrongs</l>
+            <l>Feet that run swift to Wickedness,</l>
+            <l>That mischief do, and false witness;</l>
+            <l>Those that speak Lyes, and sow discord,</l>
+            <l>All these are hated of the Lord.</l>
+            <l>Therefore if I may you advise,</l>
+            <l>Be Lowly, Civil, Just, and Wise:</l>
+            <l>Be humble, careful, circumspect,</l>
+            <l>In all your ways: do you reject</l>
+            <l>All Thoughts and Deeds of Actions evil,</l>
+            <l>Hate sin as you would hate the Devil.</l>
+            <l>Love righteousness, and follow Truth,</l>
+            <l>If you be Young, now in your Youth,</l>
+            <l>If you be Old, think't not too late</l>
+            <l>To enter into Heavens Gate.</l>
+            <l>To which if we once do ascend,</l>
+            <l>Our joys increase our sorrows end:</l>
+            <l>O that we might as Christians then</l>
+            <l>Walk in the way, even so, Amen.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207170:2"/>
+            <head>Gods Hatred against Sin and Wickedness.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Proverbs</hi> 6.16.17.18.19.</bibl>
+               <q>
+                  <p>These six things doth the Lord hate, yea; sea<g ref="char:EOLhyphen"/>ven are an Abomination unto him.</p>
+                  <p>A proud look, and a lying tongue, and hands that shed Innocent Blood.</p>
+                  <p>A Heart that deviseth Wicked Imaginations, and Feet that be swift in running to mischief.</p>
+                  <p>A false Witness that speaketh Lyes, and he that soweth discord among the People.</p>
+               </q>
+            </epigraph>
+            <p>BEloved, he that will be preserved and spared from danger, must be watch<g ref="char:EOLhyphen"/>ful over himself; he must not be like the sluggard that <hi>Solomon</hi> speaks of, in the former part of this Chapter, at the <hi>10th</hi> verse, crying out; <hi>Yet a little sleep, a little slumber, a little folding of the hands to sleep.</hi> For so saith he, <hi>shall thy pover<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y come as an armed man,</hi> verse <hi>11.</hi> And as <hi>Cicero</hi> saith, <hi>The sloathful man sleepeth in his own want.</hi> And <hi>Seneca</hi> tells us that <hi>sloath is the Mother of poverty:</hi> the fruits and signs of the wicked men are comprized herein, as it was well ob<g ref="char:EOLhyphen"/>served
+<pb facs="tcp:207170:3"/> of one, who said: <hi>In doing nothing, me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to do ill.</hi> Wicked men e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er walk fro<g ref="char:EOLunhyphen"/>wardly, <hi>v. 12.</hi> But he that will be had in ac<g ref="char:EOLhyphen"/>ceptation with the Lord, must be watchfull o<g ref="char:EOLunhyphen"/>ver his own soul, to provide in time of prospe<g ref="char:EOLhyphen"/>rity for times of Afflictions, as one that pro<g ref="char:EOLunhyphen"/>videth in times of plenty, for time of want▪ And such a person is compared to the <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the <hi>7.8.</hi> verses of this Chapter, which havin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no guide, nor overseer, nor ruler, provideth her meat in Summer, &amp; gathereth her food in the Harvest, and therefore <hi>David</hi> speaking of the blessed estate of the Righteous, saith, <hi>Psal. 1.3. And he shall be like a Tree planted by the Rivers of Water, that bringeth forth her fruit in due season, and whatsoever he doth it shall prosper.</hi> But saith he, <hi>verse 4. The ungodly are not so, but they are like unto Chaff, which the wind driveth away.</hi> Therefore the ungodly shall not stand in the Iudgment, nor sinners in the Congregation of the Righteous, for the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d knoweth the way of the Righteous, but the way of the ungodly shall perish: The Lord hates ungodliness, and the ways of sinners are abomination to the Lord, the Lord abhors sin, and more especially these sins mentioned in this Text of Scripture. A proud look, and a lying tongue, and hands that shed innocent <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lood, a heart that deviseth wickedness, and féet that are swift in running to mischief,
+<pb facs="tcp:207170:3"/> a false witness that speaketh lies, and he that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>weth discord amongst brethren: And that I <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay discover unto you the filthiness and odi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sness of these sins, I shall here speak of them <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their order as they are here scituated, and presented to your view, that so I may plainly <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ew you Gods indignation &amp; hatred against <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem; and also Gods hatred against all sins whatsoever. God hates all manner of sin, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t is odious unto him. Therefore I shall en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eavour at this time to present to your view: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> say first, the loathsomness and filthiness of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hese, and all manner of sin. And Secondly, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>abour to present you with some few loving Exhortations to fly your sins, I mean to per<g ref="char:EOLhyphen"/>suade you to hate your sins, as they are the ve<g ref="char:EOLhyphen"/>ry enemy of your poor souls.</p>
+            <p>Nay, let me tell you, sin is that enemy that will destroy souls, it is that will cast you out of the savour and love of God.</p>
+            <p>But first, <hi>The Lord hates a proud look, <hi>Prov.</hi> 24.4.</hi> A high look, &amp; a proud heart, &amp; the plowing of the wicked is sin: It was well observed of <hi>Augustine,</hi> when he said, <hi>Pride Envy, and Impatience, are the three capital e<g ref="char:EOLhyphen"/>nemies of mans consta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy.</hi> For consider, in the end the Lord will pull down high &amp; lofty spi<g ref="char:EOLhyphen"/>rits, <hi>Psal. <hi>18.27. But thou wilt save the afflicted people, and wilt bring down high looks.</hi>
+               </hi> Con<g ref="char:EOLhyphen"/>sider this soul, if ever you intend to receive
+<pb facs="tcp:207170:4"/> mercy at the hand of God: <hi>do not deceive your selves, the Lord that made you looks upo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> you, and sees you, he beholds all the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, <hi>Psal.</hi> 33.14. He looked up<g ref="char:EOLhyphen"/>on the Earth, and it trembled, Psal. 104.32▪</hi>
+            </p>
+            <p>Secondly, <hi>A lying tongue the Lord hates,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lying tongue is but for a moment, <hi>Pro.</hi> 12.19▪ A poor man is better than a Lyar, <hi>Pro.</hi> 19.22.</hi> Lying is a most hainous and filthy sin, &amp; much used now a days: through a Lye <hi>Joseph</hi> was cast into Prison, &amp; St. <hi>Chrysostom</hi> sent into Banishment: <hi>Cyrus</hi> once told the King of <hi>Ar<g ref="char:EOLhyphen"/>minia,</hi> that a Lye deserved no pardon, &amp; indeed the Scripture is very full to that purpose, <hi>Rev. <hi>21.8. And all lyars shall have their por<g ref="char:EOLhyphen"/>tion in that Lake that burneth with fire and brimstone, which is the second death.</hi>
+               </hi> Consider beloved, here is the written Word of God a<g ref="char:EOLhyphen"/>gainst lyes, <hi>he that speaketh lyes shall not escape</hi>
+            </p>
+            <p>Thirdly, Hands that shed innocent Blood: That is also hateful, the Lord hates wicked and blood-thirsty men, <hi>Isa. 1.15. When you spread forth your hands, I will hide mine eyes from you▪ and when you make many prayers I will not hear, your hands are full of Blood:</hi> Hear this, all you that live in your Sins and wickedness, it is your Sins &amp; Iniquity that defiles you &amp; slains you with the blood of soul-murder, &amp; so your hearts being full of iniqui<g ref="char:EOLhyphen"/>ty, your hands are full of blood, <hi>Isa. 59.2.3
+<pb facs="tcp:207170:4"/> But your iniquities hath seperated betwixt <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ou and your God, and your sins hath hid his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ce from you, that he will not hear; your <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ands are defiled wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h blood, and your fingers<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ds with iniquity; your lips hath spoken lyes, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd your tongue hath uttered perversness.</hi>
+            </p>
+            <p>Fourthly, <hi>A heart that deviseth wicked ima<g ref="char:EOLhyphen"/>ginations, the Lord hates.</hi> Wicked imaginati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ns are a fearful and wicked sin for persons to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ive in God destroyed the old world because of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat very sin, when God saw the imaginati<g ref="char:EOLhyphen"/>ons of the heart to be evil, and that continu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lly, <hi>Gen 6.5. And God saw the wickedness of man, that it was great throughout the Earth, and that every imagination of the thoughts of the heart was only evil continually: And it repen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the Lord that he had made man, and it grieved him to the heart.</hi> Therefore the Lord for that very sin destroyed the old world, as you may further see in the same Chapter, <hi>O therefore happy is the man that feareth al<g ref="char:EOLhyphen"/>ways, but he that hardeneth his heart shall fall into mischief. <hi>Prov.</hi> 28.14.</hi>
+            </p>
+            <p n="5">5ly. <hi>The Lord hates Feet that are swift in running to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>schief.</hi> Saith <hi>Cicero, Where men do all that they will, they indeed presume to do that they should not, Ps. 94.20. Shall the Throne of iniquity have fellowship wi h the which frameth mischief by a law?</hi> and <hi>Prov. 1.16. For their feet run to evil, and make hast to shed blood, Prov. 11.27. He that dil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly
+<pb facs="tcp:207170:5"/> seeketh good, procureth favour, but he tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> seeketh mischief, it shall come unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im.</hi>
+            </p>
+            <p>Sixthly, <hi>A false witness that speaketh Ly<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Lord hates, and such a one is an abomina<g ref="char:EOLunhyphen"/>tio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto the Lord, Prov. 19.5. A false wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shall not go unpunished, and he that speake<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lies shall not escape, Exod. 23.1.</hi> Thou sha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not raise a false report, put not thine ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with the wicked to be an unrighteous wit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ness, thou art commanded not to bear fals<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> witness against thy Neighbour, <hi>Mat. 19.18.</hi> O consider, ye are guilty of the breath o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Gods Commandements, that bear fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<g ref="char:EOLunhyphen"/>ness against your neighbours, and you com<g ref="char:EOLhyphen"/>mit abomination in the Eyes of the Lord.</p>
+            <p>And lastly, <hi>He that soweth discord amongst brethren is abomination <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Lord.</hi> Consider this all you that are Tale-cariers, &amp; Medlers of other Mens matters; <hi>Numb. 32, 23.</hi> Be sure your sin will find you out. And <hi>Solomon</hi> saith, <hi>A saithful witness will not lye, Prov. 14.5.</hi> Saith <hi>David, Whoso privily slandereth his Neighbour, him will I cut off, &amp; him that hath a high look, and a proud heart, him will I not suffer, <hi>Psal.</hi> 101, 5.</hi> And thus you may see, beloved, that these sins are hateful and a<g ref="char:EOLhyphen"/>bominable to the Lord, and though hand joyn in hand, the wicked shall not be unpunished, <hi>Prov. 11, 21.</hi>
+            </p>
+            <p>So that hence we may hear that all sin is
+<pb facs="tcp:207170:5"/> hateful unto the Lord, and the Lord will se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erely punish all Sinners that live and die in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir Sins unrepented of: and now to apply <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ese to our consid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rations, I shall as briefly <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s I can speak to you from them.</p>
+            <p>And first of all Pride of heart is spoken of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y the looks, <hi>Mat. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.34. Ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the abundance <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f the heart the mouth speaketh.</hi> The eye s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng, the heart conceiveth, &amp; then the mouth ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>resseth: Saith <hi>Augustine, A wanton eye is a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>essenger of an unchast heart, <hi>Luke</hi> 6.45. An <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vil man out of the evil treasure of his heart, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ringeth forth that which is evil, for out of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he abundance of the heart the mouth speak<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th.</hi> Pride is often seen and heard in the word: <hi>Your words hath been stout against me, saith <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Lord, Mal. 3, 13.</hi> Proud <hi>Nebuchadnezzer</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oasted himself in his words: saying, <hi>Dan. 4, 30. Is not this great <hi>Babylon</hi> that I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave built for the house of the Kingdom, and the honour of my Majesty.</hi>
+            </p>
+            <p n="2">
+               <hi>2ly.</hi> Pride is seen in the actions, <hi>the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Zion</hi> are haughty, and walk with stretched-forth necks, and wanton eyes, walk<g ref="char:EOLhyphen"/>ing and mincing as they go, and making a tink<g ref="char:EOLhyphen"/>ling with their feet, <hi>Isa.</hi> 3.16.</hi>
+            </p>
+            <p>Thirdly, Pride is seen in the Apparel and fashions of the times, and so <hi>Herod</hi> arrayed himself in go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arel, and <hi>Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> was clad with fine Linnen and Purple, and fared
+<pb facs="tcp:207170:6"/> deliciously every day. Beloved, consider, Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will call you to account for this sin of Prid<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and God will bruise you for it, if you do n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> repent of this your Pride. O that you wou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but seriously consider this, all you that live<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this sin of Pride! Whose eyes is it that n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doth not drop down floods of water? Wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> heart is it that is so hardened, that it will<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be touched with this Hammer of the Word Sinners, if you continue and dye in this<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Pride, what do you think will become<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your precious souls, in the great day of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord, when this very sin shall be laid to yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> charge, and you shall be Arraigned at the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Gods Iustice for it: Sure if you do not r<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pent of this devilish S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of Pride you may g<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> down to eternal misery, with the Devil tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> first invented it: Pride is the root and origi<g ref="char:EOLunhyphen"/>nal of all other Sins, and the Devil was th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> first that ever committed it. Now look abo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you Sinners, all you that live in drunkennes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and prophanness, and yet Pride your selve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in these Sins: you that are Drunkards, &amp; ca<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> reckon and tell others what you have don<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in your drinking, how many Cups you drun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at such a time together, and yet were no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unken: and you saw such a man drunken, and such a man sick, and such a man you made your scorn and saughter at, because he could not indure to drink so much as you have done:
+<pb facs="tcp:207170:6"/> and you have spent so much in Ale, and so <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch in Wine, and so much in Sack at one <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne; and have been in such and such compa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and have drunk this health, and the other <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith. Ah! poor souls, it will not be so with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when you come to appear before God, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>se things be laid to your charge, and you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aie to be tumbled down into eternal woe &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>isery for ever: And also you that are swear<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, that prophane the Name of the Lord at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery word, by your swearing; some there are <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at are so ready in this sin, that they can hard<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> speak without swearing an Oath, and yet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ill not be persuaded that they do swear at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to give any offence; either they say they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not swear so great oaths as others do, or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>se they say it was but in their haste, and they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pe the Lord will not be offended for that, or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>se they say many a better man, or many a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>etter woman than they either are, or may be, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ath sworn as great oaths as they have done, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e. But consider souls, the Scripture saith, <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at. 5.34. Swear not at all.</hi> Now our blessed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aviour tells us more, <hi>v. 37. That whatso<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ver cometh o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more than yea. yea, and nay, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ay, is evil.</hi> Now consider this all you sinners, <hi>Zach. 5.3. Every one that sweareth shall be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off.</hi> Now here is a lesson for you that lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e so much this sin of Swearing, God will meet with you either at one time or other, and will
+<pb facs="tcp:207170:7"/> reward you and scourge you for it, <hi>Jer. 3, 10.</hi> saith the Prophet there, <hi>Because of Swearing the Land mourneth.</hi> And <hi>Mal. 3.5.</hi> there th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord saith, he will come against, and be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> swift witness against swearers &amp; adulterers▪ O Consider this, God hath a perfect hatred a<g ref="char:EOLhyphen"/>gainst your sins, God hates thy sin &amp; my sin,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every sin committed against him, and therefo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it is good for every soul to look about to it<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> standing; look about you, all you that are sin<g ref="char:EOLhyphen"/>ners, that are common drunkards &amp; swearers adulterers, murderers, and back-biters, ba<g ref="char:EOLhyphen"/>stard-getters, lyars, and prophane persons athiests, and despisers of Gods people, for it is to you sinners that I speak unto, and it is to you only that God pronounceth his sort displeasure against, <hi>Rev. 1.8. But the fear<g ref="char:EOLhyphen"/>ful, and unbelieving, &amp; abominable Murderers, and Whore-mongers, and Sorcerers, and Ido<g ref="char:EOLhyphen"/>laters, and all Lyars, shall have a part in the Lake that burns with fire and Brimstone.</hi> Oh! consider unbelievers this dreadful sentence, you have here a portion prepared for you, but it is in misery, it is &amp; will be a portion of mi<g ref="char:EOLhyphen"/>sery, a portion of woe and of sorrow without measure, such a portion as will be everlast<g ref="char:EOLhyphen"/>ing: it is not for a day, or for a year, or for a <hi>1000</hi> y. but it is for ever, you shall endure weeping and wailing &amp; gnashing of téeth fore<g ref="char:EOLhyphen"/>ver in unmeasurable woe &amp; misery: O sinners
+<pb facs="tcp:207170:7"/> therefore if you have any space, if you have a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> care, if you be not so hardened in your sins <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at you cannot repent take so muc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pains as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o return from your former ways and courses <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd repent; if you will but come with repent<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nce &amp; godly sorrow for your sins, you shall in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o wi e be cast off, come unto God in the name <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Iesus Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ist, beg pardon fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your sins, come <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith a purpose and strong resolution to leave <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our sins, and resolve to become new Crea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ures, and though you should suffer for it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fflictions and scoffs of the wicked men of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>orld; yet come, though your friends should <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>and afarr off, and though your kindred of near <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elation should hate you for it, yet come, say <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nto God, though thou kill me yet will I trust <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n thee. Sinners, consider, if it were possible <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou could live the years of <hi>Methuselah,</hi> in as <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reat pleasures as ever any man did live in, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n as perfect health as ever any man had, in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s great riches as ever <hi>Croe us</hi> had, and in as much honour as ever <hi>Solomon</hi> had; nay, if a man could enjoy the whole world at his plea<g ref="char:EOLhyphen"/>sure, yet it is nothing, a thousand years are soon expired: But when you have been in hell millions of thousands, your punishment is ne<g ref="char:EOLhyphen"/>ver the nearer end, and your sorrows are ne<g ref="char:EOLhyphen"/>ver the less. Consider this, Oh all you Lyars that make it a practise to lye, and set debate and dissention amongst Brethren &amp; Friends,
+<pb facs="tcp:207170:8"/> all you that love this sin of Lying, and live it, to you I speak, the Lord hates your sin; <hi>Lying Tongue the Lord hates, Psa. 63.1. T<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mouth of him that speaketh lies shall be stop<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Psal. 40.4. Blessed is the man that maketh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord his refuge, and respecteth not the pro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nor such as turn aside unto lies, Prov. 12.9. lying tongue is but for a moment.</hi> Oh sinner consider what profit have you in these thin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you may be ashamed to appear before G<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your lies will one day throw you down<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hell without Repentance: what hope can<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lyar have, that hath this fearful Sentence p<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nounced against him? All Lyars shall ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their portion with unbelievers, in the lake t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> burns with fire and Brimstone: No one th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> worketh abomination, or maketh a lye, sha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> enter into the Kingdom of Heaven. Conside<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this oh! all you that are common great Lyar and count it but a small sin to tell lyes, yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> lyes, if you live in that sin, will undo your pr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cious souls, your lyes will turn again upo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you, and witness against you: Lying was th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Devils sin at the very beginning, and the De<g ref="char:EOLunhyphen"/>vil is the Father of all lyes, <hi>John 8.44. Yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are of your Father the Devil, &amp; the Lusts o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> your Father will ye do.</hi> He was a murdere<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from the beginning &amp; abode not in the truth, be<g ref="char:EOLhyphen"/>cause there is no truth in him; when he speak<g ref="char:EOLhyphen"/>eth a lye, he speaketh of his own, for he is
+<pb facs="tcp:207170:8"/> lyar, and the Father of it; and indeed it hath <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een oft in my thoughts, how great this sin of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing is at this day, and how little persons do <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gard it: Is it not sad to see a time wherein <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en bend their Tongue like a Bow to speak <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, <hi>Jer. 9.3.</hi> Oh souls, if you would but con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>der of it, it might make your hearts to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>remble to think of that filthiness of this de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ilish sin of lying, this soul-destroying sin that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>akes you right the devils children, and fits <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our souls for misery in hell for ever: consider <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>his you that are Parents, keep your children <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>p, &amp; teach them to speak the truth, fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-warn <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem of evil, use the means God hath appoin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed you to use, instruct them in the fear of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ord, teach them to speak the truth, <hi>Prov. 22.6. <hi>Train up a child in the way that he should walk. and when he is old, he will not depart from it.</hi>
+               </hi> I press this the more because that at this time, lying in a common sin with many especially amongst Children, little Children can learn to lye as soon as ever they can learn to speak, they can presently learn to excuse themselves by making lyes to their Parents. Beloved, lying is a sin from the beginning, it was the very first branch that ever sprung from Pride, the Devil first Prided himself, &amp; then by founding a lye, overthrew our first Parents in Paradise, therefore my desire is
+<pb facs="tcp:207170:9"/> that all that hear or reads this small B<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> leave this Sin of Lying, learn to speak eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> man the Truth, and forsake the way of lyin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Ephes. 4.15.</hi> O consider Sinners, Sweare<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Drunkards proud Persons, Thieves, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Murderers, you that are such Sinners, yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hands are full of blood: the Devil first out<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pride caused a branch of lying to spring up, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> so o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercame our first Parents, and murde<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their souls: For man being creat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in Im<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cency his blood was innocent but through<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> delusions of Satan, transgressing the Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mandment the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d had given him to obser<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he made him liable to death, and murder<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> himself and his Posterity: beloved, no Sinn<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> can be innocent, <hi>Psal. 5.6. <hi>Thou shalt destr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> them that speak leasings, the Lord will ab<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the bloody and deceitful man.</hi>
+               </hi> Consider this<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you worldly rich men, you that are outwar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly rich, but poor in Grace: <hi>Isaiah</hi> cryes out<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gainst you, <hi>Isa. 3.15. <hi>What mean you that y<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> beat my people to pieces, and grind the fac<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of the poor? saith the Lord of Hosts.</hi>
+               </hi> Conside<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> this all you that care not so you can get gai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if the poor starve: you covet after the Worl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as if it were your rest, and for ought I kno<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it may well become your portion here &amp; her<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>after it may bring you down to misery.</p>
+            <p>O souls! For the Lords sake consider yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that are thus bloody minded, you have a grea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:207170:9"/> share in this Iudgment, blood defileth both <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou and the Land wherein you Inhabit, <hi>Num. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>5.33. <hi>bloody persons shall not live out half <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>heir dayes.</hi>
+               </hi> O Sinners, that you would but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eriously consider this; if thou be a Wicked <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erson, but it may be that though thou be a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ommon prophane Sinner, thou wilt acknow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dge no less, but that thou hast been drunk, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r that thou art subject to swear now and then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n Oath; but happily thou (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t may be) wilt say <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hou never committed murder in all thy life, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou art not a murderer, thou art not guilty <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f such a Sin, thou art free from murder, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ree from blood. But I tell thee soul; while <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hou livest in any known Sin, thou art a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urderer of thy own soul; doth not the Scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ure say, no unrighteous person shall enter <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nto Heaven; doth not our Saviour Christ say <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat except you repent, you shall all likewise <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erish; and he that believeth not, is condem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed already: How canst thou conclude then, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut that thy soul is murdered, and who is the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>urderer but thy self? Consider this all you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat be outside Christians, formal and out<g ref="char:EOLhyphen"/>ward Professors; and all you that have evil <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>earts to devise wicked imaginations, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ider you that imagine deceit all the day long, <hi>Gen. 5.6.</hi> Therefore consider this Sin is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ateful, and how this sin doth accord with all
+<pb facs="tcp:207170:10"/> other sins, any rational man may well co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceive.</p>
+            <p>The Lord help us to be watchful over o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> own hearts: And let me advise you to t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one thing, to strive to cast down every wi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed Imagination, and every high Though<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>1 Cor. 10.5. Let none imagine evil agai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his brother in his heart, <hi>Zach.</hi> 7.10.</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> none imagine deceit all the day long, but<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every one labour and strive to the utterm<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of their power to endeavour to do that w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is good and upright in the sight of God.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gain consider: You whose feet are swift<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> running to do mischief, God may in due ti<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meet with you in your wickedness: M<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it not be cause of great sorrow, and mourni<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to see how forward some persons are at t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> very day, to run to any manner of Sin:<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Drunkard, how forward he is to run to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Tavern, the Gamester to the Game he<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> delighteth in, the Swearer he proceeds on<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his ordinary course of Swearing: and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lyar he abounds more and more in his de<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lish practise, and every Sinner in maki<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> way for his Sin, and excusing himself the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in, <hi>Prov. 10.23. It is sport for a Fool to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mischief.</hi>
+            </p>
+            <p>Wicked persons delight so much in m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>chief, that it is a sport for them to do mi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>chief,
+<pb facs="tcp:207170:10"/> it is their delight, therefore they run to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>Prov. 14.9. Fools make a mock at sin, but <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ong the Righteous there is favour.</hi>
+            </p>
+            <p>Consider you also that bear false Witness <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ainst your Neighbour, by your Lying and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your speaking evil: you also will the Lord <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve a controversie with, your Sin also doth <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Lord hate, and you also will he reward <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cording to your doings <hi>Num. 32.25.</hi> Be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re your Sin will find you out, God will have <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Controversie with you, and you shall not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cape. You are commanded not to bear <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lse witness, yet you do it, and it may be you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o it against your Neighbour too, and when <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou thus do break the Lords Commandement, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou are sowers of discord amongst brethren. <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>xod. 20.16. And the Lord will reward you or your evil: 1 Cor. 3.8. Every man shall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eceive his reward according to his doings.</hi> Beloved, I would desire you seriously to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onsider it, the Lord hates Sin, and every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>alse way is abomination to him, and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ore my advice is, that you would strive and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>abour to avoid Sin, as your utter Enemy; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd as it is the Enemy of your souls, and in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he end will destroy you for ever, God <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ends his Servants, the Ministers of the Gospel unto you, to warn you of your Sins. <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er. 44.4. How be it,</hi> saith he, <hi>I send unto
+<pb facs="tcp:207170:11"/> you my Servants the Prophets, Rising ea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and sending them, saying, O do not this abo<g ref="char:EOLunhyphen"/>minable thing.</hi> Beloved, Sin is an abomin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ble thing, and therefore I would desire t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sin might be beaten down, and as it we trodden under foot. Oh have nothing to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with any Sin, it is the very enemy of yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> poor Souls: And now Christian Friends,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> humbly desire you, that you will accept<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> these few loving Exhortations, which I sh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> here lay down, and so conclude.</p>
+            <p>First, Seeing that Sin is that which t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord hates, and that which will without t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lords mercy destroy your precious souls,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you labour to destroy your Sin, hate S<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with a perfect hatred: when any Sin presen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it self unto you in a fair Garb, consider wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the wise man saith, <hi>Prov. 14.34. Sin is a Re<g ref="char:EOLunhyphen"/>proach to any Nation.</hi> Consider and pond<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and say thus to thy self: If Sin be a repro<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to any Nation, then if I commit Sin it w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> danger the life of my precious Soul: Say a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Prophet <hi>David</hi> said, in <hi>Psal. 101.6. Mi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> eyes shall be upon the faithful in the Lan<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that they may dwell with me.</hi> He that wal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eth in a perfect way▪ he shall serve me. C<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> off all manner of Sin, let not Sin reign i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your mortal Bodies, let not Sin rule ov<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you: Sin is as it were a Cart-rope to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb facs="tcp:207170:11"/> you to Destruction, <hi>Isa. 5.18.</hi> Oh therefore <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> watchful and forsake your Sins, count <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em your utter Enemies, give no way nor <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erty to Sin, <hi>Prov. 1.10. My Son, if Sin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rs intice thee, consent not.</hi> O that every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inner would turn so to this Scripture con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt not to commit sin upon any terms, let no <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ticem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts prevail with you, to commit <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>in. Consider in what estate man was at the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rst, Created in Paradise, and then consider <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat estate man was in having fallen.</p>
+            <p>First, Consider what estate man was in at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he first: at the first Man was Created in the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mage of God perfectly holy and happy, <hi>Gen <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.27.</hi> A most blessed and a happy estate, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n a man might enjoy the presence of God, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ommunion with God, and perfect liberty in Paradise, a most blessed place, free from sor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ow, free from cross, or loss a place of peace, wherein a man might freely enjoy every <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hing but Sin; but having once Sinned, he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould not enjoy any thing at all, he must be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ast out, he could not enjoy the place it self.</p>
+            <p>Secondly, Consider what estate Sin made man in, it made him dead in it, <hi>Gen. 2.27.</hi> In the day thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atest thereof thou shalt dye the Death, Man in his first estate by creati<g ref="char:EOLhyphen"/>on, was a living soul, <hi>verse 7.</hi> but having Sin<g ref="char:EOLhyphen"/>ned. he became dead in Sins and Trespasses.
+<pb facs="tcp:207170:12"/> But I cannot stand upon this point, to she<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you how man became a bond-slave to Sata<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and a Child of Wrath, &amp;c. But must proceed.</p>
+            <p>Secondly, Love a very good and holy W<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> frequent the company of Gods people, labo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ever to be in company with such as fear th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord: for with the holy thou shalt be holy,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with the Perverse thou shalt learn pervers<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ness.</p>
+            <p>Consider, That God h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th chosen his Pe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ple in Iesus Christ, that they should be ho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Ephes. 2.4.</hi> God is a holy God, and therefo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Holiness becometh his house, and his people<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Learn therefore, saith Christ of me, for I a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> meek and lowly, and you shall find rest f<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your souls, <hi>Mat. 11.22.</hi>
+            </p>
+            <p>Thirdly, Forsake evil Companions,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Drunkards, Swearers, Whore-mongers<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Adulterers, B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anglers, Lyars, and Ido<g ref="char:EOLunhyphen"/>laters, and every one in whom appears ev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> forsake Pride and proud persons, <hi>1 Thes. 5▪ 22. Abstain from all appearances of evil, hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nothing to do with sin, but flee from it a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from the Devil, k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll it in every appearance, and constantly hate it.</hi>
+            </p>
+            <p>Fourthly, Dally not with any bosome Sin that you are in love with, it may be you have some Sin wherein you delight, but though it he so cast it away, have nothing to do with
+<pb facs="tcp:207170:12"/> it: if it be as dear to you as your right eye, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uck it out and cast it from you: Yea, if it be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> useful to You as your right hand, cut it off <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d cast it from You. <hi>Mat. 5.29.30.</hi>
+            </p>
+            <p>Lastly, To conclude, Close with Iesus <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hrist, put on the Lord Iesus Christ, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ake no provision for the Flesh, Iesus Christ <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a comely Garment, O therefore imbrace <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>im, that he may imbrace You: Lay hold on <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>esus Christ; and though thou hast grievously <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fended, do so no more, <hi>Rev. 2.5, Remember <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>om whence thou art fallen, and repent, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ome home to God in the name of Jesus Christ <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd be humbled before him:</hi> Sin no more lest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> worse thing befall thee. Strive to enter in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t the straight Gate, that shall lead thy soul to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>verlasting happiness, and bring thee unto <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eaven in the end, where there is pleasure un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>efiled, and Ioy unspeakable, World with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut end. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:207170:13"/>
+            <head>THE AVTHOR TO THE READER</head>
+            <lg>
+               <l>Redeem the time while thou hast space,</l>
+               <l>Only to God for pardon pray;</l>
+               <l>Give him thy heart, and beg his Grace,</l>
+               <l>Ever to guide thee in his way:</l>
+               <l>Repent and seek him everyday.</l>
+            </lg>
+            <lg>
+               <l>Hate Sin, and every evil thing,</l>
+               <l>Only upon thy God depend,</l>
+               <l>Unto him that is Heavens King</l>
+               <l>Give praises due, world without end,</l>
+               <l>He'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> save thy soul, and thee defend.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <hi>From Old</hi> Alderley <hi>in</hi> Cheshire, <date>Sept. <hi>29. 1660.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207170:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
